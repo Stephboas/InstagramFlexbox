@@ -2,5 +2,6 @@
 
 Projeto do bootcamp da **Digital Innovation One** que abordou os conceitos sobre CSS utilizando o Flexbox (posicionamento de elementos) e de responsividade. 📱
 
-<img src="C:\Users\magah\Pictures\instagram_00.png" alt="instagram_00" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/59345979/107159669-5ea41f80-6970-11eb-9ea1-4f17b83981e3.png" alt="instagram_00" />
 
+<img src="https://user-images.githubusercontent.com/59345979/107159669-5ea41f80-6970-11eb-9ea1-4f17b83981e3.png" alt="drawing"/>
